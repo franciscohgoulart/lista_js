@@ -20,4 +20,4 @@ continuar = confirm ("Deseja adicionar mais numeros?")
 }
 
 
-somarNumeros();
+
